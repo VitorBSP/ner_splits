@@ -1,3 +1,7 @@
 # Dados brutos – não versionar
 /CleanCoNLL/
 /ner-splits/
+.env
+/bitandbytes/
+/tmp/
+/.venv/
