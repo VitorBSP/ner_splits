@@ -1,0 +1,4 @@
+{"split": "standard", "idx": 216, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "standard", "idx": 315, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "standard", "idx": 378, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_len", "idx": 333, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
