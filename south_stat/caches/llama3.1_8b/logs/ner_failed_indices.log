@@ -1,0 +1,17 @@
+{"split": "standard", "idx": 216, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "standard", "idx": 315, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "standard", "idx": 490, "err": "Formato JSON n\u00e3o reconhecido (list): [[{'id': 0, 'tags': ['O']}, {'id': 1, 'tags': ['B-ORGANIZATIONAL']}, {'id': 2, 'tags': ['I-ORGANIZATIONAL']}, {'id': 3, 'tags': ['O']}, {'id': 4, 'tags': ['B-ORGANIZATIONAL']}, {'id': 5, 'tags': ['I-ORGANIZATIONAL']}, {'id': 6, 'tags': ['O']}, {'id': 7, 'tags': ['B-PERSONAL']}, {'id': 8, 'tags': ['I-PERSONAL']}, {'id': 9, 'tags': ['O']}, {'id': 10, 'tags': ['B-ORGANIZATIONAL']}, {'id': 11, 'tags': ['I-ORGANIZATIONAL']}, {'id': 12, 'tags': ['O']}, {'id': 13, 'tags': ['B-PERSONAL']}, {'id': 14, 'tags': ['I-PERSONAL']}, {'id': 15, 'tags': ['O']}, {'id': 16, 'tags': ['B-ORGANIZATIONAL']}, {'id': 17, 'tags': ['I-ORGANIZATIONAL']}, {'id': 18, 'tags': ['O']}, {'id': 19, 'tags': ['B-PERSONAL']}, {'id': 20, 'tags': ['I-PERSONAL']}, {'id': 21, 'tags': ['O']}, {'id': 22, 'tags': ['B-ORGANIZATIONAL']}, {'id': 23, 'tags': ['I-ORGANIZATIONAL']}, {'id': 24, 'tags': ['O']}, {'id': 25, 'tags': ['B-PERSONAL']}, {'id': 26, 'tags': ['I-PERSONAL']}, {'id': 27, 'tags': ['O']}, {'id': 28, 'tags': ['B-ORGANIZATIONAL']}, {'id': 29, 'tags': ['I-ORGANIZATIONAL']}, {'id': 30, 'tags': ['O']}, {'id': 31, 'tags': ['B-PERSONAL']}, {'id': 32, 'tags': ['I-PERSONAL']}, {'id': 33, 'tags': ['O']}, {'id': 34, 'tags': ['B-ORGANIZATIONAL']}, {'id': 35, 'tags': ['I-ORGANIZATIONAL']}, {'id': 36, 'tags': ['O']}, {'id': 37, 'tags': ['B-PERSONAL']}, {'id': 38, 'tags': ['I-PERSONAL']}, {'id': 39, 'tags': ['O']}, {'id': 40, 'tags': ['B-ORGANIZATIONAL']}, {'id': 41, 'tags': ['I-ORGANIZATIONAL']}, {'id': 42, 'tags': ['O']}, {'id': 43, 'tags': ['B-PERSONAL']}, {'id': 44, 'tags': ['I-PERSONAL']}, {'id': 45, 'tags': ['O']}, {'id': 46, 'tags': ['B-ORGANIZATIONAL']}, {'id': 47, 'tags': ['I-ORGANIZATIONAL']}, {'id': 48, 'tags': ['O']}, {'id': 49, 'tags': ['B-PERSONAL']}, {'id': 50, 'tags': ['I-PERSONAL']}], {}]"}
+{"split": "heur_len", "idx": 454, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_len", "idx": 471, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_rare", "idx": 88, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_rare", "idx": 235, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_rare", "idx": 264, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_rare", "idx": 374, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "heur_rare", "idx": 381, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 23, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 30, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 209, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 210, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 302, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 312, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}
+{"split": "adversarial", "idx": 461, "err": "Modelo n\u00e3o retornou 'tags'; ecoou 'tokens'."}

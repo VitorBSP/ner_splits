@@ -1,0 +1,14 @@
+{
+  "precision_micro": 0.8747577158192933,
+  "recall_micro": 0.8747577158192933,
+  "f1_micro": 0.8747577158192933,
+  "precision_macro": 0.0023856789324259594,
+  "recall_macro": 0.0024279237300059426,
+  "f1_macro": 0.0024066159583208736,
+  "precision_weighted": 0.8595373189923204,
+  "recall_weighted": 0.8747577158192933,
+  "f1_weighted": 0.8670807293233525,
+  "accuracy": 0.8747577158192933,
+  "support": 13414,
+  "num_labels": 389
+}
