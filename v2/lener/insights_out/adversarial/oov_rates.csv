@@ -1,0 +1,3 @@
+metric,value
+oov_rate_val_vs_train,0.03677478300593878
+oov_rate_test_vs_train,0.05758388684063293

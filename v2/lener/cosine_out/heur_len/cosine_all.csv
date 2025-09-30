@@ -1,0 +1,7 @@
+space,a,b,cosine_distance
+labels,train,val,1.815115907288778e-05
+labels,train,test,2.408355915317628e-05
+labels,val,test,1.3767811325005042e-05
+words,train,val,0.04950217996379547
+words,train,test,0.02755551599656403
+words,val,test,0.06334468613479949

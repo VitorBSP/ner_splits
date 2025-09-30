@@ -1,0 +1,13 @@
+part,quantile,value
+train,p10,2
+train,p50,9
+train,p90,31
+train,p99,44
+val,p10,3
+val,p50,9
+val,p90,31
+val,p99,45
+test,p10,5
+test,p50,18
+test,p90,38
+test,p99,51

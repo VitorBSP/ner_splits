@@ -1,0 +1,4 @@
+space,a,b,cosine_distance
+words,train,val,0.056486198814876154
+words,train,test,0.05633687889327643
+words,val,test,0.08942172422298311
