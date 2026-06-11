@@ -2,6 +2,6 @@ space,a,b,cosine_distance
 labels,train,val,5.792992696296295e-05
 labels,train,test,1.2372840298313648e-05
 labels,val,test,5.340335583148281e-05
-words,train,val,0.04993618734469052
+words,train,val,0.049936187344690186
 words,train,test,0.044608274138147275
-words,val,test,0.08144940742080853
+words,val,test,0.08144940742080864

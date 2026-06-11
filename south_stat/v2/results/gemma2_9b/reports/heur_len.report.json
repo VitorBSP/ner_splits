@@ -1,26 +1,254 @@
 {
   "O": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 502.0
+    "precision": 0.9313608585482188,
+    "recall": 0.9213358891182541,
+    "f1-score": 0.9263212512045067,
+    "support": 13564.0
   },
-  "accuracy": 1.0,
-  "macro avg": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 502.0
+  "B-baciaSedimentar": {
+    "precision": 0.07142857142857142,
+    "recall": 0.11428571428571428,
+    "f1-score": 0.08791208791208792,
+    "support": 35.0
   },
-  "weighted avg": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 502.0
+  "I-baciaSedimentar": {
+    "precision": 0.08928571428571429,
+    "recall": 0.1111111111111111,
+    "f1-score": 0.09900990099009901,
+    "support": 45.0
+  },
+  "B-epoca": {
+    "precision": 0.01744186046511628,
+    "recall": 0.041666666666666664,
+    "f1-score": 0.02459016393442623,
+    "support": 72.0
+  },
+  "I-epoca": {
+    "precision": 0.005952380952380952,
+    "recall": 0.07142857142857142,
+    "f1-score": 0.01098901098901099,
+    "support": 14.0
+  },
+  "B-idade": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 72.0
+  },
+  "I-idade": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "B-periodo": {
+    "precision": 0.034482758620689655,
+    "recall": 0.03636363636363636,
+    "f1-score": 0.035398230088495575,
+    "support": 55.0
+  },
+  "I-periodo": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "B-eon": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 31.0
+  },
+  "I-eon": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "B-era": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 30.0
+  },
+  "I-era": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "B-magmaticas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 40.0
+  },
+  "I-magmaticas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5.0
+  },
+  "B-metamorficas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 38.0
+  },
+  "I-metamorficas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "B-sedimentaresSiliciclasticas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 88.0
+  },
+  "I-sedimentaresSiliciclasticas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 15.0
+  },
+  "B-sedimentaresCarbonaticas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 39.0
+  },
+  "I-sedimentaresCarbonaticas": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7.0
+  },
+  "B-unidadeEstratigrafica": {
+    "precision": 0.02127659574468085,
+    "recall": 0.018518518518518517,
+    "f1-score": 0.019801980198019802,
+    "support": 54.0
+  },
+  "I-unidadeEstratigrafica": {
+    "precision": 0.02127659574468085,
+    "recall": 0.015873015873015872,
+    "f1-score": 0.01818181818181818,
+    "support": 63.0
+  },
+  "B-contextoGeologicoDeBacia": {
+    "precision": 0.022727272727272728,
+    "recall": 0.013888888888888888,
+    "f1-score": 0.017241379310344827,
+    "support": 72.0
+  },
+  "I-contextoGeologicoDeBacia": {
+    "precision": 0.022727272727272728,
+    "recall": 0.025,
+    "f1-score": 0.023809523809523808,
+    "support": 40.0
+  },
+  "B-ambienteSedimentacao": {
+    "precision": 0.02631578947368421,
+    "recall": 0.04,
+    "f1-score": 0.031746031746031744,
+    "support": 25.0
+  },
+  "I-ambienteSedimentacao": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 15.0
+  },
+  "B-constituinteRochaSedimentar": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12.0
+  },
+  "I-constituinteRochaSedimentar": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "B-fosseis": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16.0
+  },
+  "I-fosseis": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 9.0
+  },
+  "B-planctonico": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 20.0
+  },
+  "I-planctonico": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "B-bentonico": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "I-bentonico": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "B-mineral": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16.0
+  },
+  "I-mineral": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "B-procedimentoMetodologico": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16.0
+  },
+  "I-procedimentoMetodologico": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
   },
   "micro avg": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0
+    "precision": 0.8560388455751607,
+    "recall": 0.8621710979473757,
+    "f1-score": 0.8590940288263555,
+    "support": 14518.0
+  },
+  "macro avg": {
+    "precision": 0.03241732489021238,
+    "recall": 0.036140308006522494,
+    "f1-score": 0.03320516354780423,
+    "support": 14518.0
+  },
+  "weighted avg": {
+    "precision": 0.8712236501230389,
+    "recall": 0.8621710979473757,
+    "f1-score": 0.8665950704714096,
+    "support": 14518.0
   }
 }

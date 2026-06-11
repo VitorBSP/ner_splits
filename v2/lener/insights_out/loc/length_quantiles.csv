@@ -5,9 +5,9 @@ train,p90,78
 train,p99,169
 val,p10,2
 val,p50,4
-val,p90,25
-val,p99,63
+val,p90,26
+val,p99,59
 test,p10,2
 test,p50,4
-test,p90,27
-test,p99,62
+test,p90,26
+test,p99,60
